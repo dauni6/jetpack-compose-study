@@ -1,15 +1,15 @@
 # 김동현
 ## 스터디
 ### 1주차
-Compose 함수들 (10 ~ 30)
+Compose 함수들 (10 ~ 30) <br>
 Compose 컴파일러 (31 ~ 79)
 
 ### 2주차
-Compose Runtime - 1 (80 ~ 97)
+Compose Runtime - 1 (80 ~ 97) <br>
 Compose Runtime - 2 (99 ~ 124)
 
 ### 3주차
-Compose UI - 1 (126 ~ 150)
+Compose UI - 1 (126 ~ 150) <br>
 Compose UI - 2 (151 ~ 207)
 
 ### 4주차
